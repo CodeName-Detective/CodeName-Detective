@@ -5,7 +5,7 @@ You can call me Shri and I am a Research assistant at the University at Buffalo 
 - 🔭 I’m currently working on  Instance Segmentation of Plastic Materials and Conversational AI
 - 🌱 I’m currently learning CUDA Programming.
 - ⚡ Fun fact: I've got this whole Batman vibe going on. I'm just waiting for my utility belt to arrive in the mail!
-- My complete portfolio is at ...
+- My complete portfolio: https://codename-detective.github.io/portfolio/
 - My LinkedIn : https://www.linkedin.com/in/shri-harsha-adapala/
 
 
