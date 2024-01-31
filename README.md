@@ -6,6 +6,7 @@ You can call me Shri and I am a Research assistant at the University at Buffalo 
 - 🌱 I’m currently learning CUDA Programming.
 - ⚡ Fun fact: I've got this whole Batman vibe going on. I'm just waiting for my utility belt to arrive in the mail!
 - My complete portfolio is at ...
+- My LinkedIn : https://www.linkedin.com/in/shri-harsha-adapala/
 
 
   ## Technical Proficiency
