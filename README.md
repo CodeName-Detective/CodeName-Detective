@@ -12,6 +12,6 @@ You can call me Shri and I am a Research assistant at the University at Buffalo 
   ## Technical Proficiency
   - Proficient in programming languages: C++, and Python.
   - Expertise in Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and Reinforcement Learning.
-  - Hands-on experience with PyTorch, CUDA programming, AWS, and Azure.
+  - Hands-on experience with PyTorch, OpenMP, MPI, CUDA programming, AWS, and Azure.
 
 
