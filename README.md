@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-You can call me Shri and I am a Research assistant at the University at Buffalo working in the fields of Conversational AI and Instance Segmentation. I also have experience in Cloud Platforms and Robotic Process Automation.
+You can call me Shri and I am a PhD candidate at the University at Buffalo working in the fields of Autonomous Vehicles and Reinforcement Learning. Expert in Autonomous Vehicles, Machine Learning (NLP, Computer Vision, RL), and Parallel & Distributed Programming (OpenMP, MPI, CUDA).
   
 - 🔭 I’m currently working on  Instance Segmentation of Plastic Materials and Conversational AI
 - 🌱 I’m currently learning CUDA Programming.
